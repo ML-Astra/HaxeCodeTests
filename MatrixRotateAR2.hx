@@ -1,3 +1,9 @@
+/**
+    Rotates a pair of arrays producing a matrix.
+
+    Author: Astralis Novae (ML_Astra)
+**/
+
 package;
 
 class MatrixRotate{

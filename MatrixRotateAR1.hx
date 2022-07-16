@@ -1,3 +1,10 @@
+/**
+    Just rotates a matrix of values
+    in a single array.
+
+    Author: Astralis Novae (ML_Astra)
+**/
+
 package;
 
 class MatrixRotateAR1{

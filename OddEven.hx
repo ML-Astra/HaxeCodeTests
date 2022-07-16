@@ -1,3 +1,10 @@
+/**
+    A simple program that checks a number,
+    checks if it's odd or even,
+    then outputs that to the console.
+
+    Author: Astralis Novae (ML_Astra)
+**/
 package;
 
 class OddEven{

@@ -1,3 +1,13 @@
+/**
+    Takes a number,
+    if it is divisible by 3 then it prints 'Fizz',
+    if it is divisible by 5 then it prints 'Buzz',
+    if it is divisible by both then it prints 'FizzBuzz'.
+    Anything else it just outputs the Number.
+
+    Author: Astralis Novae (ML_Astra)
+**/
+
 package;
 
 class FizzBuzz{
